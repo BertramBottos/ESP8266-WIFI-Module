@@ -1,5 +1,7 @@
 # ESP8266-WIFI-Module
 Hi and welcome to my Github. This is how I setup the ESP8266-WIFI-module for controlling a power outlet. 
+This is convenient for controlling the lights at home or shutting off the power to devices with timing. 
+
 ## Complete BOM
 * EPS8266-WIFI-Modul
 * SSH
