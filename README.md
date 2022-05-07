@@ -1,9 +1,9 @@
 # ESP8266-WIFI-Module
 Hi and welcome to my Github. This is how I setup the ESP8266-WIFI-module for controlling a power outlet. 
 ## Complete BOM
-*EPS8266-WIFI-Modul
-*SSH
-*A Power outlet
+* EPS8266-WIFI-Modul
+* SSH
+* A Power outlet
 Disclaimer: I take no responsibility for any faults that might oquer. 
 
 
