@@ -10,6 +10,8 @@ Setting up the WIFI:
 ```c
 const char* ssid     = "<ENTER YOUR WIFI SSID>";     // The SSID (name) of the Wi-Fi network you want to connect to
 const char* password = "<ENTER YOUR PASSWORD>";      // The password of the Wi-Fi network   
+const long utcOffsetInSeconds = 3600 * 2;            //DK tids-zone, Use this link to se you timezone,
+const int Lights = 4;                                 // GPIO4 D2 (SDA), use this link ti see the pinout
 ```
 
 
