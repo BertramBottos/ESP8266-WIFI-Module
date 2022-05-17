@@ -10,8 +10,8 @@ ESP8266WebServer server(80);  // Create a webserver object that listens for HTTP
 WiFiUDP ntpUDP;
 
 /********** PLEASE CHANGE THIS *************************/
-#define ssid "<ENTER YOUR WIFI SSID>";         // The SSID (name) of the Wi-Fi network you want to connect to
-#define password "<ENTER YOUR PASSWORD>";      // The password of the Wi-Fi network
+#define ssid "<ENTER YOUR WIFI SSID>"         // The SSID (name) of the Wi-Fi network you want to connect to
+#define password "<ENTER YOUR PASSWORD>"      // The password of the Wi-Fi network
 #define Lights 4                               // GPIO4 D2 (SDA), use this link ti see the pinout, https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
 const long utcOffsetInSeconds = 3600 * 2;      //DK tids-zone, Use this link to se you timezone, https://lastminuteengineers.com/esp8266-ntp-server-date-time-tutorial/ , https://en.wikipedia.org/wiki/List_of_UTC_offsets
